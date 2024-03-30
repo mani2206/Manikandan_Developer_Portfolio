@@ -19,7 +19,7 @@ import React from "react";
 //           <div className="line"></div>
 //           <h6 className="">
 //             Qualified and professional{" "}
-//             <span className="fw-bold">Front End Web Developer</span> with 2
+//             <span className="fw-bold">Front End Web Developer</span> with 2.5
 //             years of experience in website design. Strong creative and
 //             analytical skills, specializing in responsive website design. A team
 //             player with an eye for detail.
